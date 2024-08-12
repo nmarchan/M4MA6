@@ -1,0 +1,4 @@
+The learning_python script contains code to read text from a file and print it in several different ways. 
+
+CUBE.py uses the third-party Matplotlib library to plot the cubes of 5 and then 5000 positive integers
+It also contains some error handling for some inconsistent matplotlib errors that cropped up.
