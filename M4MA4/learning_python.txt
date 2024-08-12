@@ -1,0 +1,5 @@
+In Python you can assign variables without separately declaring them first.
+In Python you can create lists containing numbers and strings.
+In Python you can import modules to interact with the OS.
+In Python you can create your own classes and methods.
+In Python you can save scripts that can be used across multiple platforms.
