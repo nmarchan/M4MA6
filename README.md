@@ -1,7 +1,7 @@
 # M4MA6
 Collection of Python code from ITSE-1329 Module 4 Mastery Assessments
 
-M4MA2 shows a continuing refinement of a script that defines "User" and "Restaurant" classes, with the '_q*' variants representing different objectives along the way. 
+M4MA2 shows the continuing refinement of a script that defines "User" and "Restaurant" classes, with m4ma2.py containing the final form of the script, while the '_q*' variants represent different objectives along the way. 
 
 M4MA3 contains two scripts: one in which a die is rolled ten times, and another in which four characters are randomly selected to represent a lottery. Both require importing the built-in random module.
 
