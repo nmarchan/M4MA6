@@ -1,0 +1,2 @@
+M4A5_q1 uses Pygal to create a histogram visualization of 4 earthquakes and their magnitudes.
+M4A5_q2 uses the matplotlib and (built-in) csv modules to plot the locations of fires detected worldwide over a 24-hour period.
